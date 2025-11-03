@@ -55,4 +55,8 @@ about:
 extra:
   recipe-maintainers:
     - flferretti
+<<<<<<< HEAD
     - conda-forge/rocm-core
+=======
+    - conda-forge/rocm-core
+>>>>>>> 8d82da8 (Add recipe for `composable-kernel`)
